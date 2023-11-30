@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying data sistematization on Universidad Distrital FJDC<br>I'm currently working on personal projects related with mobile development<br>I'm looking to work in new spaces and open my professional portfolio<br>I'm looking for help with AI automation systems aimed at cybersecurity<br>I'm currently learning Coursera Cibersecurity Fundamentals and JS FrameWorks(React)<br>Ask me about UI/UX and Responsive Design on Web/Mobile<br><br>
+🎓I'm currently studying data sistematization on Universidad Distrital FJDC<br>🖱I'm currently working on personal projects related with mobile development<br>⭐I'm looking to work in new spaces and open my professional portfolio<br>🤝I'm looking for help with AI automation systems aimed at cybersecurity<br>👾I'm currently learning Coursera Cibersecurity Fundamentals and JS FrameWorks(React)<br>🎨Ask me about UI/UX and Responsive Design on Web/Mobile<br><br>
 
 
 ## 🌐 Socials:
